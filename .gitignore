@@ -16,3 +16,5 @@ images
 *.manifest
 *.spec
 .scrapy
+
+fold-2.h5
